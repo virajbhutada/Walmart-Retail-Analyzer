@@ -60,7 +60,7 @@ To use the MS Excel Walmart Sales Dashboard, follow these steps:
 
 ## Feedback and Contributions
 
-Feel free to provide feedback or contribute to the project! If you have any questions, create an issue or reach out to [your GitHub username or email].
+Feel free to provide feedback or contribute to the project! If you have any questions, create an issue or reach out to [📧](virajnbhutada24@gmail.com).
 
 Happy analyzing!
 
