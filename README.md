@@ -53,9 +53,11 @@ To use the MS Excel Walmart Sales Dashboard, follow these steps:
   
 ## Screenshots/Demo
 
-![Dashboard Overview]("C:\Users\NOVO\Pictures\Screenshots\Screenshot 2023-11-23 171835.png")
+## Screenshots/Demo
 
-![Another Section]("C:\Users\NOVO\Pictures\Screenshots\Screenshot 2023-11-23 171900.png")
+![Dashboard](screenshots/Screenshot%202023-11-23%20171900.png)
+
+![Another Section](screenshots/Screenshot2023-11-23%171900.png")
 
 
 ## Author: Viraj N. Bhutada
