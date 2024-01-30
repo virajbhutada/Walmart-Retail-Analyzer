@@ -1,6 +1,4 @@
-# MS-Excel-Walmart-Retail-Sales-Dashboard
-
-[WALMART DASHBOARD](https://docs.google.com/spreadsheets/d/1_MVkUufSaRnfGbWj75UW5HXDC_qeh2JQ/edit#gid=32887686)
+# Walmart-Insights-Tracker
 
 Welcome to the MS Excel Walmart Sales Dashboard repository! This project is a comprehensive dashboard created in Microsoft Excel to analyze and visualize Walmart retail sales data. The dataset includes information about orders, customers, products, and key sales metrics.
 
