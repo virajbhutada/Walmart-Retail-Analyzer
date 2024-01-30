@@ -1,6 +1,8 @@
 # Walmart Insights Tracker
 
-Welcome to the Walmart Insights Tracker repository! This project is a comprehensive Microsoft Excel dashboard designed to analyze and visualize Walmart retail sales data. The dataset includes detailed information about orders, customers, products, and key sales metrics.
+This project is a comprehensive Microsoft Excel dashboard designed to analyze and visualize Walmart retail sales data. The dataset includes detailed information about orders, customers, products, and key sales metrics.
+
+---
 
 ## Features
 
@@ -34,6 +36,8 @@ Welcome to the Walmart Insights Tracker repository! This project is a comprehens
   - Analyze the correlation between sales and profit.
   - Visualize the contribution of different products to total sales and profit.
 
+---
+
 ## Usage Instructions
 
 ### Download the Excel File:
@@ -53,13 +57,17 @@ Welcome to the Walmart Insights Tracker repository! This project is a comprehens
 4. Hover over data points to view details.
 5. Adjust filters or parameters to customize your analysis.
 
+---
+
 ## Screenshots/Demo
 
 ![Dashboard Overview](https://github.com/virajbhutada/Walmart-Insights-Tracker/assets/143819712/1759937c-4b70-4284-ac37-356ae284f8a9)
 
-## Author
+It provides a glimpse into the Walmart Insights Tracker dashboard, showcasing its intuitive visualizations and analytical capabilities. Explore the complete dashboard by following the usage instructions below.
 
-Viraj N. Bhutada
+### Author: [Viraj N. Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
+
+---
 
 ## Submit Issues and Pull Requests
 
@@ -69,7 +77,7 @@ Found a bug or want to request a feature? Submit an issue or pull request:
 
 ## Feedback and Contributions
 
-Feel free to provide feedback or contribute to the project! If you have any questions, create an issue or reach out via 📧.
+Feel free to provide feedback or contribute to the project! If you have any questions, create an issue, or reach out via 📧.
 
 Happy analyzing!
 
