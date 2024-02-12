@@ -62,7 +62,7 @@ Explore the complete dashboard by following the usage instructions provided abov
 
 # Feedback and Contributions:
 
-[![Clone](https://img.shields.io/badge/Clone-Download-blue)](https://github.com/virajbhutada/Walmart-Retail-Analyzer/archive/refs/heads/main.zip) [![Issues](https://img.shields.io/badge/Issues-Report-red)](https://github.com/virajbhutada/Walmart-Retail-Analyzer/issues) [![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Submit-green)](https://github.com/virajbhutada/Walmart-Retail-Analyzer/pulls) [![Push](https://img.shields.io/badge/Push-Upload-orange)](https://github.com/virajbhutada/Walmart-Retail-Analyzer)
+[![Clone](https://img.shields.io/badge/Clone-Download-yellow)](https://github.com/virajbhutada/Walmart-Retail-Analyzer/archive/refs/heads/main.zip) [![Issues](https://img.shields.io/badge/Issues-Report-red)](https://github.com/virajbhutada/Walmart-Retail-Analyzer/issues) [![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Submit-green)](https://github.com/virajbhutada/Walmart-Retail-Analyzer/pulls) [![Push](https://img.shields.io/badge/Push-Upload-orange)](https://github.com/virajbhutada/Walmart-Retail-Analyzer)
 
 ---
 
