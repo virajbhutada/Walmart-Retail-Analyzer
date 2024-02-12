@@ -1,84 +1,78 @@
-# Walmart Insights Tracker
+# Walmart Retail Analyzer
 
-This project is a comprehensive Microsoft Excel dashboard designed to analyze and visualize Walmart retail sales data. The dataset includes detailed information about orders, customers, products, and key sales metrics.
-
----
-
-## Features
-
-- **Category Analysis**
-  - Visualize sales and profit distribution across different product categories.
-  - Explore the performance of each category over time.
-
-- **Priority Analysis**
-  - Analyze the distribution and impact of order priorities on sales and profit.
-
-- **Major Quant Values**
-  - Utilize box-and-whisker plots and scatter plot matrices to explore key quantitative values.
-
-- **Growth Analysis**
-  - Track the growth of sales and profit over consecutive time periods.
-  - Identify trends and patterns in the data.
-
-- **Time Series Analysis**
-  - Utilize line charts and bar charts to analyze sales or profit trends over time.
-  - Explore seasonal patterns and variations.
-
-- **Return Analysis**
-  - Visualize the distribution of returned orders.
-  - Examine correlations between returns and other factors.
-
-- **Profit and Profitability**
-  - Explore the relationship between profit, sales, and other relevant factors.
-  - Utilize scatter plots, waterfall charts, and dual-axis charts.
-
-- **Profit and Sales**
-  - Analyze the correlation between sales and profit.
-  - Visualize the contribution of different products to total sales and profit.
+This project offers a comprehensive analysis of Walmart Superstore's sales and profitability, providing actionable insights for strategic decision-making and operational optimization. The dynamic dashboard, designed in Microsoft Excel, visualizes key performance indicators (KPIs) and analyzes sales and profitability across various dimensions.
 
 ---
 
-## Usage Instructions
+### Excel Dashboard Link:
 
-### Download the Excel File:
+<p align="center">
+  <a href="https://docs.google.com/spreadsheets/d/10zXwekQCxKpWsvexNTGCmX3H8RBdal5U/edit#gid=89267768">
+    <img src="https://img.shields.io/badge/Excel%20Dashboard-Download-darkspringgreen" alt="Excel Dashboard">
+  </a>
+</p>
 
-1. Click on the "Code" button and select "Download ZIP" to download the entire project.
 
-### Open the Excel File:
+  ---
+  
+# Key Features:
 
-2. Extract the downloaded ZIP file and open the Excel file in Microsoft Excel.
+- **Identifying KPIs with Sparklines:** Utilize Sparklines to visually represent crucial KPIs like total sales revenue, profit margin, sales growth rate, and average transaction value, offering quick insights into performance trends.
 
-### Explore the Dashboard:
+- **Segmentation Analysis:** Analyze sales and profitability data by customer segments, product categories, markets, and regions to identify trends and opportunities for optimization.
 
-3. Navigate through the different sheets and tabs to access various charts and analyses.
+- **Top-performing & Underperforming Categories:** Pinpoint top-performing product categories driving revenue and profitability, while identifying areas of underperformance for targeted improvement efforts.
 
-### Interact with Charts:
+- **Geographic Distribution of Sales & Market Share:** Visualize sales and market share distribution across different regions to identify growth opportunities and expansion potential.
 
-4. Hover over data points to view details.
-5. Adjust filters or parameters to customize your analysis.
+- **Sub-category Contribution Analysis:** Evaluate the contribution of various sub-categories to overall sales to understand product preferences and optimize inventory management and marketing strategies.
 
----
+- **Market Share Evaluation by Region:** Assess market share by region to inform resource allocation, expansion strategies, and market penetration efforts.
 
-## Screenshots/Demo
-
-![Dashboard Overview](https://github.com/virajbhutada/Walmart-Insights-Tracker/assets/143819712/1759937c-4b70-4284-ac37-356ae284f8a9)
-
-It provides a glimpse into the Walmart Insights Tracker dashboard, showcasing its intuitive visualizations and analytical capabilities. Explore the complete dashboard by following the usage instructions below.
-
-### Author: [Viraj N. Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
+- **Category & Sub-category Wise Metrics:** Generate detailed insights into performance at a granular level, enabling targeted actions for improvement.
 
 ---
 
-## Submit Issues and Pull Requests
+# Usage Instructions:
 
-Found a bug or want to request a feature? Submit an issue or pull request:
-- [Submit Issues](https://github.com/virajbhutada/Walmart-Insights-Tracker/issues)
-- [Pull Requests](https://github.com/virajbhutada/Walmart-Insights-Tracker/pulls)
+1. **Download the Excel File:**
+   - Click on the "Code" button on the GitHub repository.
+   - Select "Download ZIP" to download the entire project.
 
-## Feedback and Contributions
+2. **Open the Excel File:**
+   - Extract the downloaded ZIP file.
+   - Open the Excel file in Microsoft Excel.
 
-Feel free to provide feedback or contribute to the project! If you have any questions, create an issue, or reach out via 📧.
+3. **Explore the Dashboard:**
+   - Navigate through different sheets and tabs to access various charts and analyses.
 
-Happy analyzing!
+4. **Interact with Charts:**
+   - Hover over data points to view details.
+   - Adjust filters or parameters to customize your analysis.
+---
+
+# Visuals:
+![Screenshot 2024-02-12 203229](https://github.com/virajbhutada/Walmart-Retail-Analyzer/assets/143819712/c2adc9ff-3601-45e5-815e-6e53106be0b0)
+![Screenshot 2024-02-12 203252](https://github.com/virajbhutada/Walmart-Retail-Analyzer/assets/143819712/04586841-1693-430b-be44-fde4f6d28755)
 
 
+Explore the complete dashboard by following the usage instructions provided above.
+
+---
+
+# Feedback and Contributions:
+
+Feel free to provide feedback or contribute to the project by submitting issues or pull requests on GitHub:
+
+[![Clone](https://img.shields.io/badge/Clone-Download-blue)](https://github.com/virajbhutada/Walmart-Retail-Analyzer/archive/refs/heads/main.zip) [![Issues](https://img.shields.io/badge/Issues-Report-red)](https://github.com/virajbhutada/Walmart-Retail-Analyzer/issues) [![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Submit-green)](https://github.com/virajbhutada/Walmart-Retail-Analyzer/pulls) [![Push](https://img.shields.io/badge/Push-Upload-orange)](https://github.com/virajbhutada/Walmart-Retail-Analyzer)
+
+---
+
+## Connect With Me
+
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
+
+For any inquiries or collaboration opportunities, please feel free to reach out via LinkedIn. Your feedback and suggestions are highly appreciated.
+
+
+### Happy analyzing!
