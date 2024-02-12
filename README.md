@@ -8,7 +8,7 @@ This project offers a comprehensive analysis of Walmart Superstore's sales and p
 
 <p align="center">
   <a href="https://docs.google.com/spreadsheets/d/10zXwekQCxKpWsvexNTGCmX3H8RBdal5U/edit#gid=89267768">
-    <img src="https://img.shields.io/badge/Excel%20Dashboard-Download-darkspringgreen" alt="Excel Dashboard">
+    <img src="https://img.shields.io/badge/Excel%20Dashboard-Download-darkgreen" alt="Excel Dashboard">
   </a>
 </p>
 
