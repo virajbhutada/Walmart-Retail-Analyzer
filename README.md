@@ -52,8 +52,7 @@ This project offers a comprehensive analysis of Walmart Superstore's sales and p
 ---
 
 # Visuals:
-![Screenshot 2024-02-12 203229](https://github.com/virajbhutada/Walmart-Retail-Analyzer/assets/143819712/c2adc9ff-3601-45e5-815e-6e53106be0b0)
-![Screenshot 2024-02-12 203252](https://github.com/virajbhutada/Walmart-Retail-Analyzer/assets/143819712/04586841-1693-430b-be44-fde4f6d28755)
+![Screenshot 2024-02-12 203229](https://github.com/virajbhutada/Walmart-Retail-Analyzer/assets/143819712/c2adc9ff-3601-45e5-815e-6e53106be0b0)![Screenshot 2024-02-12 203252](https://github.com/virajbhutada/Walmart-Retail-Analyzer/assets/143819712/04586841-1693-430b-be44-fde4f6d28755)
 
 
 Explore the complete dashboard by following the usage instructions provided above.
